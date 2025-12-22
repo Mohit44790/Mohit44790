@@ -1,45 +1,56 @@
-## Hi there 👋
-# Hi, I'm Mohit 👋
+<h1 align="center">Hi, I'm Mohit 👋</h1>
+<h3 align="center">Passionate Developer | Learner | Problem Solver</h3>
 
-## 👨‍💻 About Me
+---
+
+## 🧑‍💻 About Me
 - 💻 Passionate about technology and problem-solving  
-- 🌱 Currently learning and improving my skills in programming  
+- 🌱 Currently learning and improving my programming skills  
 - 🚀 Interested in building real-world projects  
-- 🤝 Open to collaboration and learning from others  
+- 🤝 Open to collaboration and open-source contributions  
 
-## 🛠️ Skills & Technologies
-- **Languages:** C / C++ / Python / JavaScript *(jo bhi aap use karte ho)*  
-- **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
-- **Currently Exploring:** New technologies and frameworks  
+---
+
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit44790&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit44790&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit44790&layout=compact&theme=tokyonight"/>
+</p>
+
+---
 
 ## 📌 Projects
-- 🔹 **Project 1:** Short description of what it does  
-- 🔹 **Project 2:** Short description of what it does  
-- 🔹 **Project 3:** Short description of what it does  
+- 🔹 **Project 1** – Short description of what it does  
+- 🔹 **Project 2** – Short description of what it does  
+- 🔹 **Project 3** – Short description of what it does  
 
-## 📊 GitHub Stats
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit44790&show_icons=true&theme=default)
+---
 
 ## 📫 Connect With Me
-- GitHub: [github.com/Mohit44790](https://github.com/Mohit44790)
-- LinkedIn: *(add link if you have one)*  
+<p align="center">
+  <a href="https://github.com/Mohit44790">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
 
 ## ⚡ Fun Fact
-I believe consistency is more important than talent.
-
-
-<!--
-**Mohit44790/Mohit44790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Consistency is more important than talent.**
