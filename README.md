@@ -1,17 +1,26 @@
 <h1 align="center">Hi, I'm Mohit 👋</h1>
-<h3 align="center">Passionate Developer | Continuous Learner | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Problem Solver | Continuous Learner</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-kumar-247169223/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Mohit44790">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Passionate about building scalable and user-friendly applications  
-- 🌱 Continuously learning modern technologies and best practices  
-- 🚀 Focused on real-world, hands-on projects  
-- 🤝 Open to collaboration, internships, and open-source contributions  
+- 💻 Full-stack developer with strong interest in modern web applications  
+- 🌱 Continuously learning and improving development best practices  
+- 🚀 Passionate about building scalable, real-world projects  
+- 🤝 Open to internships, collaborations, and open-source contributions  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,vscode" />
 </p>
@@ -33,31 +42,35 @@
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-- 🔒 **Amazon E-Commerce (Private)**  
-  A full-featured e-commerce platform inspired by Amazon, focusing on product listings, user authentication, and shopping workflows.
+### 🛒 Amazon E-Commerce (Private)
+**Live:** https://amazon-e-commerce-psi.vercel.app/  
+A full-stack Amazon-inspired e-commerce platform with authentication, product listings, and shopping cart functionality.
 
-- 🌐 **Ecommerce Shopping (Public)**  
-  A responsive online shopping application built using modern web technologies with cart functionality and clean UI.
+---
 
-- 🌍 **3D Solar System**  
-  An interactive 3D visualization of the solar system demonstrating planets, orbits, and animations using graphics and JavaScript concepts.
+### 💬 Mohit Social Media
+**Live:** https://mohitsocialmedia.onrender.com/  
+A social media platform prototype featuring user profiles, posts, and interactive UI components.
 
-- 💬 **Mohit Social Media**  
-  A social media platform prototype featuring user profiles, posts, and interaction-focused UI design.
+---
+
+### 🍽️ Restaurant Website
+**Live:** https://restaurant-wqb4.onrender.com/  
+A modern restaurant web application with responsive design and user-friendly layout.
+
+---
+
+### 🌍 3D Solar System
+**Live:** https://3-d-solar-system-orcin.vercel.app/  
+An interactive 3D visualization of the solar system showcasing planets, orbits, and animations.
 
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/Mohit44790">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/mohit-kumar-247169223/
+- 💻 GitHub: https://github.com/Mohit44790
 
 ---
 
